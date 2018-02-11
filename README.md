@@ -2,6 +2,12 @@
 
 ## 1. Active Monitoring (perfSONAR)
 
+Monitoring is one of the fundamental operational activity to be carried out by playground operators to improve operations and reduce service interruptions of OF@TEIN Playground.
+
 ## 2. Passive Monitoring (IOVisor)
 
+Active monitoring measures the flow of data on the network by inserting test traffic into the network. One of the key benefit of active monitoring is ability to collect smaller amounts of data specific to the problem at hand rather than collecting everything available at the network.
+
 ## 3. Accessibility
+
+This functionality is required to improve previous work, called as “access center”, due to lack of developer’s ready applications for accessibility (such as secure client, Java packages), software version compatibility (such as browser and Java package version) and required configuration in user’s desktop (registry config for windows and user-customized parameters). 
