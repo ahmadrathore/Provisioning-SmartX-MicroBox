@@ -1,4 +1,4 @@
-# Micro_Box_Provisioning
+# SmartX Micro(μ)-Box 
 
 ## 1. Active Monitoring (perfSONAR)
 
