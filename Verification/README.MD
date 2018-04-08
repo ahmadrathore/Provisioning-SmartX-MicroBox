@@ -1,3 +1,5 @@
 
-1- Extract measurements and create Weighted Score 
-2-FloydWarshall Algorithm for Verification
+## 1- Extract measurements and create Weighted Score 
+
+
+## 2-FloydWarshall Algorithm for Verification
